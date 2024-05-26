@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SPA with Django</title>
+</head>
+<body>
+    <div id="app">
+        <h1>Messages</h1>
+        <ul id="messages"></ul>
+        <input type="text" id="messageInput">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+    <script>
+        async function fetchMessages() {
+            const response = await fetch('/api/messages/');
+            const messages = await response.json();
+            const messagesList = document.getElementById('messages');
+            messagesList.innerHTML = '';
+            messages.forEach(message => {
+                const li = document.createElement('li');
+                li.textContent = message.content;
+                messagesList.appendChild(li);
+            });
+        }
+
+        async function sendMessage() {
+            const input = document.getElementById('messageInput');
+            const content = input.value;
+            const response = await fetch('/api/messages/', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ content })
+            });
+            if (response.ok) {
+                input.value = '';
+                fetchMessages();
+            }
+        }
+
+        fetchMessages();
+    </script>
+</body>
+</html>
