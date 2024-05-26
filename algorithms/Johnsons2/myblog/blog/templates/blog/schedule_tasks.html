@@ -1,0 +1,20 @@
+<!-- blog/templates/blog/schedule_tasks.html -->
+{% extends "blog/base.html" %}
+
+{% block title %}Task Schedule{% endblock %}
+
+{% block content %}
+<h1 class="my-4">Task Schedule</h1>
+<div class="row">
+    {% for task, engineer in tasks_with_schedule %}
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">{{ task }}</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">{{ engineer }}</h6>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>
+{% endblock %}
