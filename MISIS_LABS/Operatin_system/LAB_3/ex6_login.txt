@@ -1,0 +1,155 @@
+/home/yegor/.cache/gnome-software/flatpak-system-default/components.xmlb
+/home/yegor/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Documents.db
+/home/yegor/.cache/mozilla/firefox/uj1zq2fc.default-release/startupCache/startupCache.8.little
+/home/yegor/.cache/mozilla/firefox/uj1zq2fc.default-release/startupCache/scriptCache-child-current.bin
+/home/yegor/.cache/mozilla/firefox/uj1zq2fc.default-release/startupCache/scriptCache-current.bin
+/home/yegor/.cache/mozilla/firefox/uj1zq2fc.default-release/startupCache/scriptCache.bin
+/home/yegor/.cache/mozilla/firefox/uj1zq2fc.default-release/startupCache/scriptCache-child.bin
+/home/yegor/.cache/mozilla/firefox/uj1zq2fc.default-release/cache2/entries/9656A47093609C0F29FA64857A7566CC25CB46E1
+/home/yegor/.cache/mozilla/firefox/uj1zq2fc.default-release/cache2/entries/7E872F884A5C709C327B384785501BDF5814A333
+/home/yegor/.cache/chromium/Profile 4/Code Cache/js/44de872988ae9f75_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/2559fbbde8e03c3a_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/72c0abee34aa9bcf_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/123877d4db9bd452_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/916f7efa7ecf8b92_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/be8d84b9bb1c95b9_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/92ba69cad2c5fc40_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/0467e196821b9bd6_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/981590951777fde6_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/322de66d1ccf6753_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/3cd38935a64d7828_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/08033763ce85985b_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/53d8e4af344c804e_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/537e5ae7fcc87b14_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/9bfc72f8f5f599cd_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/51598318fd98392e_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/216cb2ae5cf9b81a_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/4c37867730e55628_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/0532a6f2ad680565_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/2e2ce45e3032027f_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/0c5a616ee64ef465_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/f172f4c07b3bddfd_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/3f7a55f822dd82b0_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/01e79086278d4cde_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/fe3d3172b80d39d9_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/ee2a7919f1dd455a_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/e20e9279fa93dc68_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/d20fa3054bb34bae_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/35f447e62d64801f_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/8a8430a01abee09e_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/177ec4f13b5e2258_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/617c4055631cc966_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/252f6db6c94ad00c_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/8b616d346e65feb3_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/108d34ab23bda1b8_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/6a78f980b88cd3f8_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/8ca89ab6017dcc2a_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/b6019952d9a84670_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/eb4a8bd69bcf9b85_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/524f55f3288ad0cd_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/1e8e6a972a7af883_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/343cc27a783121c0_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/1a06b078f65a265b_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/884ae0205e70a9da_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/3d187e709e8be5f7_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/f606dbb40828cf5f_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/374c570eda1e3290_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/aaf6df6e73f3252c_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/0eb817d942f4e05c_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/e380fe170527c8f5_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/2f6a272ce56831ca_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/332e247128504246_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/1f340b87e4c42426_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/963e61d2c5030d81_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/1a43e3f1931304da_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/93c052cafc1c5fbd_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/c615adb8e967fd83_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/979ea21c848cce21_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/af5273e77ec4952f_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/c9721620c6d68530_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/160a93a0a8cb0c5e_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/b2797c31296bca56_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/dd0eba7852841db9_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/53cff4881a71b6d0_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/3bee967cd07786fe_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/365fba1aa4486f82_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/137ce36d7756671d_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/38f315aee4ee1d21_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/db9bc9b0b06bb23d_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/962a7428768fa018_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/1405343990a6bdcb_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/9bc3f99fe6a8f664_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/c781c849ab573f59_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/fa4bf5b0f50212ea_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/b0c441ceab8ca764_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/c2d0b65a006200b7_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/3f4f7355e0c96fbf_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/ee772b2253eb8503_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/20f409950fa92021_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/6fa782c35d296e44_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/22f950c0c4aece5d_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/c1d337d185747f71_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/d453f7bf30f1e37a_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/69624d7365ab1427_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/7a71e09384f71dc1_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/165fd7fd816dfb75_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/4265bc29ebcef48d_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/ad956da2956700a6_0
+/home/yegor/.cache/google-chrome/Default/Code Cache/js/fc410e9cbb5e24f2_0
+/home/yegor/.config/google-chrome/Default/Session Storage/000101.ldb
+/home/yegor/.config/google-chrome/Default/WebStorage/118/CacheStorage/a26448d3-d27e-4929-8449-45c6502f37b6/9b943236b65be244_1
+/home/yegor/.config/google-chrome/Default/WebStorage/118/CacheStorage/a26448d3-d27e-4929-8449-45c6502f37b6/4603866a083d81c3_1
+/home/yegor/.config/google-chrome/Default/WebStorage/118/CacheStorage/a26448d3-d27e-4929-8449-45c6502f37b6/c563c3e114890525_1
+/home/yegor/.config/google-chrome/Default/WebStorage/118/CacheStorage/a26448d3-d27e-4929-8449-45c6502f37b6/89a4908181c55256_1
+/home/yegor/.config/google-chrome/Default/WebStorage/118/CacheStorage/a26448d3-d27e-4929-8449-45c6502f37b6/c005bb31a65c5a81_1
+/home/yegor/.config/google-chrome/Default/WebStorage/118/CacheStorage/778a525b-f202-4052-bb3f-1d3102f1bf09/a4e5036f58e9d133_1
+/home/yegor/.config/google-chrome/Default/WebStorage/118/CacheStorage/778a525b-f202-4052-bb3f-1d3102f1bf09/e6d81c5894c9f72d_1
+/home/yegor/.config/google-chrome/Default/WebStorage/118/CacheStorage/778a525b-f202-4052-bb3f-1d3102f1bf09/32a0346a9c61856d_1
+/home/yegor/.config/google-chrome/Default/WebStorage/118/CacheStorage/778a525b-f202-4052-bb3f-1d3102f1bf09/d6783979a16090ff_1
+/home/yegor/.config/google-chrome/Default/WebStorage/118/CacheStorage/778a525b-f202-4052-bb3f-1d3102f1bf09/f06649b1f6df1dc6_1
+/home/yegor/.config/google-chrome/Default/WebStorage/118/CacheStorage/778a525b-f202-4052-bb3f-1d3102f1bf09/c45d467f0b5132ab_1
+/home/yegor/.config/google-chrome/Default/WebStorage/118/CacheStorage/778a525b-f202-4052-bb3f-1d3102f1bf09/b6021882287e6eb1_1
+/home/yegor/.config/google-chrome/Default/WebStorage/118/CacheStorage/778a525b-f202-4052-bb3f-1d3102f1bf09/1a7a7f73d20c8d0e_1
+/home/yegor/.config/google-chrome/Default/WebStorage/118/CacheStorage/778a525b-f202-4052-bb3f-1d3102f1bf09/87d6b6864dd74496_1
+/home/yegor/.config/google-chrome/Default/WebStorage/118/CacheStorage/579e3b44-7560-4982-b376-37279a44042c/a4e5036f58e9d133_1
+/home/yegor/.config/google-chrome/Default/Service Worker/ScriptCache/013888a1cda32b90_1
+/home/yegor/.config/google-chrome/Default/Service Worker/ScriptCache/b6c28cea6ed9dfc1_1
+/home/yegor/.config/google-chrome/Default/Service Worker/ScriptCache/1ce4c8338c3106af_1
+/home/yegor/.config/google-chrome/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/bc1d309e-10cd-4a7f-b429-4dc67977a572/438f927253ee7d34_1
+/home/yegor/.config/google-chrome/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/bc1d309e-10cd-4a7f-b429-4dc67977a572/e27086719a304ef7_1
+/home/yegor/.config/google-chrome/Default/Service Worker/CacheStorage/900a1390cfc793f0992974a16c325d457cc2dcc1/6f0fa6f3-195e-4f7e-9df0-74df01a2292f/4575e74683899a16_1
+/home/yegor/.config/google-chrome/Default/Service Worker/CacheStorage/ef5fcbd3cf59318071081232b5f9d24299a71c1f/bd3a5189-c588-49d0-a689-b5d151bee239/0f327486c47a1495_1
+/home/yegor/.config/google-chrome/Default/Service Worker/CacheStorage/ef5fcbd3cf59318071081232b5f9d24299a71c1f/bd3a5189-c588-49d0-a689-b5d151bee239/d80eee5ecb0f8203_1
+/home/yegor/.config/google-chrome/Default/Service Worker/CacheStorage/ef5fcbd3cf59318071081232b5f9d24299a71c1f/bd3a5189-c588-49d0-a689-b5d151bee239/df9db84ec5b196f9_1
+/home/yegor/.config/google-chrome/Default/Service Worker/CacheStorage/ef5fcbd3cf59318071081232b5f9d24299a71c1f/bd3a5189-c588-49d0-a689-b5d151bee239/b0dc81c4ffafa3a7_1
+/home/yegor/.config/google-chrome/Default/Service Worker/CacheStorage/ef5fcbd3cf59318071081232b5f9d24299a71c1f/bd3a5189-c588-49d0-a689-b5d151bee239/25ce86681b2c14c0_1
+/home/yegor/.config/google-chrome/Default/IndexedDB/chrome-extension_cofdbpoegempjloogbagkncekinflcnj_0.indexeddb.leveldb/000007.log
+/home/yegor/.config/google-chrome/Default/IndexedDB/chrome-extension_cofdbpoegempjloogbagkncekinflcnj_0.indexeddb.leveldb/000009.ldb
+loginova
+login1
+/home/yegor/.config/google-chrome/ZxcvbnData/3/passwords.txt
+login
+/home/yegor/.config/google-chrome/ZxcvbnData/3/english_wikipedia.txt
+/home/yegor/.config/google-chrome/optimization_guide_model_store/15/E6DC4029A1E4B4C1/E6B5C8D7B1530351/model.tflite
+/home/yegor/.config/Code/CachedData/903b1e9d8990623e3d7da1df3d33db3e42d80eda/main-b102866dbf51659445431d345dc6b12a.code
+/home/yegor/.config/Code/CachedData/903b1e9d8990623e3d7da1df3d33db3e42d80eda/sharedProcessMain-3110946bb7365d9b85f2afb7b5440aa9.code
+/home/yegor/.config/Code/CachedData/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extension-c1d94e9b90dfa0d79073fe4c7a8e63ee.code
+/home/yegor/.config/Code/CachedData/903b1e9d8990623e3d7da1df3d33db3e42d80eda/ptyHostMain-b62f0190431e97e023c49579a4726fd3.code
+/home/yegor/.config/discord/Code Cache/js/34be50eb18da91d1_0
+login/SM
+/home/yegor/.local/share/TelegramDesktop/tdata/dictionaries/en_US/en_US.dic
+/home/yegor/.local/share/Trash/files/tsetup.4.14.15/Telegram/Telegram
+/home/yegor/Downloads/discord-0.0.43/Discord/chrome_crashpad_handler
+/home/yegor/Downloads/discord-0.0.43/Discord/Discord
+login/SM
+/home/yegor/.var/app/org.telegram.desktop/data/TelegramDesktop/tdata/dictionaries/en_US/en_US.dic
+/home/yegor/.vscode/extensions/vadimcn.vscode-lldb-1.10.0/lldb/lib/libpython39.so
+login.so
+/home/yegor/MISIS_LABS/LAB_2/test/i-files/ignored_words.conf
+loginova
+login1
+login
+login/SM
+login/SM
+login.so
+/home/yegor/MISIS_LABS/LAB_3/ex6.txt

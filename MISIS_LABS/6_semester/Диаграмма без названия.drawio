@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0" pages="2">
+  <diagram name="IDEF0" id="_ODNviEU9c6M16wDwYwD">
+    <mxGraphModel dx="1461" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ElQe_g96B4TA_TwdpAmc-1" value="Разработка веб-сервиса для размещения объявлений" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="260" y="180" width="340" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="260" as="sourcePoint" />
+            <mxPoint x="230" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-2" value="Требования заказчика" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="400" as="sourcePoint" />
+            <mxPoint x="230" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-4" value="Анализ рынка" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-5" value="Бизнес-правила, определяющие, как должен работать сервис" style="text;whiteSpace=wrap;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="30" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="80" as="sourcePoint" />
+            <mxPoint x="320" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="80" as="sourcePoint" />
+            <mxPoint x="500" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-10" value="Технические стандарты, определяющие технологии и требования к разработке" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="420" y="21" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="289.58" y="640" as="sourcePoint" />
+            <mxPoint x="289.58" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-12" value="Менеджеры " style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="650" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="428" y="640" as="sourcePoint" />
+            <mxPoint x="428" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-14" value="Разработчики ПО (программисты, тестировщики, UX/UI дизайнеры)" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="365" y="650" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="554.58" y="640" as="sourcePoint" />
+            <mxPoint x="554.58" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-16" value="Оборудование и инфраструктура " style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="650" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="250" as="sourcePoint" />
+            <mxPoint x="780" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-19" value="Готовый веб-сервис" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="630" y="220" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-21" value="Документация" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="630" y="360" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dBBDNiewLJHVS-Q_SKmy-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="625" y="389.58000000000004" as="sourcePoint" />
+            <mxPoint x="775" y="389.58000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uQ5tGq2Xd2CuWZSC31YC" name="IDEF1">
+    <mxGraphModel dx="1242" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EczplIdHJDC_LZo4l2Ib-1" value="&amp;nbsp;Анализ требований" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EczplIdHJDC_LZo4l2Ib-2" value="&amp;nbsp;Проектирование системы" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EczplIdHJDC_LZo4l2Ib-3" value="Разработка веб-сервиса" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="490" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EczplIdHJDC_LZo4l2Ib-4" value="Тестирование" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="414" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EczplIdHJDC_LZo4l2Ib-5" value="Развертывание и запуск" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="620" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EczplIdHJDC_LZo4l2Ib-6" value="Поддержка и обновление" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="710" y="660" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EczplIdHJDC_LZo4l2Ib-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="250" as="sourcePoint" />
+            <mxPoint x="80" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EczplIdHJDC_LZo4l2Ib-8" value="Определение функционала системы" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EczplIdHJDC_LZo4l2Ib-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="300" as="sourcePoint" />
+            <mxPoint x="80" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EczplIdHJDC_LZo4l2Ib-11" value="Изучение потребностей пользователей" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="10" y="320" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EczplIdHJDC_LZo4l2Ib-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="250" as="sourcePoint" />
+            <mxPoint x="340" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="250" />
+              <mxPoint x="260" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EczplIdHJDC_LZo4l2Ib-13" value="Разработка архитектуры веб-сервиса" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="265" y="255" width="85" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

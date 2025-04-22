@@ -1,0 +1,343 @@
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+  FI
+DONE
+ELSE
+ESAC
+ELSE
+ELSE
+DONE
+[BR]
+[LE]
+# YE
+# WI
+# WE
+# WO
+# FA
+# FI
+# FE
+# FO
+# VA
+# VI
+# VE
+# VO
+# JE
+ELSE
+ELSE
+ELSE
+  },
+<!--
+<!--
+X=-1
+Y=-1
+SUDO
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+ -->
+  DO
+ELSE
+ELSE
+  FI
+  FI
+  FI
+[3G]
+DONE
+ELSE
+ELSE
+ELSE
+ELSE
+  FI
+ELSE
+  FI
+DONE
+		FI
+ELSE
+  X)
+  ;;
+  ;;
+ESAC
+  X)
+  ;;
+  ;;
+ESAC
+ELSE
+ELSE
+  FI
+  FI
+ELSE
+  ;;
+ESAC
+ELSE
+ESAC
+ELSE
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+ESAC
+ESAC
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+DONE
+ELSE
+DONE
+  FI
+  FI
+ELSE
+  ;;
+ESAC
+ELSE
+ESAC
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+DONE
+DONE
+ESAC
+    
+DONE
+X=80
+Y=24
+  FI
+  DO
+  FI
+  FI
+  FI
+  FI
+DONE
+9	RA
+# OR
+# OR
+[DM]
+[FS]
+		FI
+:: \
+:: \
+:: \
+:: \
+AWS_
+BANK
+BANK
+BANK
+EC2_
+GCE_
+ONE_
+PASS
+PASS
+PASS
+VISA
+VISA
+VISA
+	# }
+	# }
+DONE
+LTAZ
+QQ==
+MDE=
+B3Q=
+MG==
+AXR5
+IENB
+IECY
+Y3K=
+MDK=
+QSK=
+UJQ1
+MDIX
+EQ==
+AXR5
+DCBB
+DCBC
+CYAZ
+DJI=
+QS0Y
+ZQ==
+MRY=
+SYCX
+WD9F
+MPV0
+SSI6
+1UWJ
+SW==
+GJTO
+EG==
+D0JQ
+F/M+
+MRY=
+SYCX
+F7O=
+WD9F
+S1IK
+ASI=
+SSI6
+IA==
+SW==
+V+C=
+ZQ==
+MRY=
+SYCX
+WD9F
+MPV0
+SSI6
+1UWJ
+SW==
+GJTO
+[IR]
+[CR]
+[RR]
+LOCK
+LOCK
+  FI
+ELSE
+ELSE
+DONE
+ELSE
+ESAC
+ESAC
+DONE
+AUTO
+AUTO
+AS6E
+ESCL
+HS2P
+PINT
+#PNM
+QCAM
+UMAX
+AUTO
+# OR
+# OR
+# 0.
+# 0.
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+  ]>
+  ]>
+MAIN
+MAIN
+MAIN
+MAIN
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+ELSE
+ELSE
+ELSE
+		FI
+		FI
+		FI
+		FI
+		FI
+		FI
+		FI
+		FI
+		FI
+		FI
+		FI
+		FI
+		FI
+		FI
+		FI
+			:
+		FI
+		FI
+		FI
+		FI
+		FI
+		FI
+		FI
+		FI
+		FI
+		FI
+		;;
+		;;
+		;;
+		;;
+		;;
+		;;
+		;;
+		;;
+ESAC
+/USR
+			}
+[QT]
+  FI
+  FI
+ELSE
+	END
+EXT4
+EXT3
+EXT2
+VFAT
+### 
+ELSE
+ELSE
+DONE
+THEN
+  FI
+  FI
+/FJG
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+  FI
+  DO
+  FI
+  FI
+  FI
+  FI
+  DO
+  FI
+ELSE
